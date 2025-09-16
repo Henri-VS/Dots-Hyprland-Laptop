@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/henri/Pictures/Wallpapers/CowboybebopBlackWhite.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#000000",
+        "foreground": "#f4f4f4",
+        "cursor": "#f4f4f4"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#A7A7A7",
+        "color2": "#B8B8B8",
+        "color3": "#C8C8C8",
+        "color4": "#D8D8D8",
+        "color5": "#E8E8E8",
+        "color6": "#F4F4F4",
+        "color7": "#f4f4f4",
+        "color8": "#aaaaaa",
+        "color9": "#A7A7A7",
+        "color10": "#B8B8B8",
+        "color11": "#C8C8C8",
+        "color12": "#D8D8D8",
+        "color13": "#E8E8E8",
+        "color14": "#F4F4F4",
+        "color15": "#f4f4f4"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/henri/Pictures/Wallpapers/Titan.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0907",
+        "foreground": "#eadfca",
+        "cursor": "#eadfca"
+    },
+    "colors": {
+        "color0": "#0d0907",
+        "color1": "#A95F49",
+        "color2": "#986A53",
+        "color3": "#B28D6D",
+        "color4": "#CB9674",
+        "color5": "#B6A089",
+        "color6": "#D4B38E",
+        "color7": "#eadfca",
+        "color8": "#a39c8d",
+        "color9": "#A95F49",
+        "color10": "#986A53",
+        "color11": "#B28D6D",
+        "color12": "#CB9674",
+        "color13": "#B6A089",
+        "color14": "#D4B38E",
+        "color15": "#eadfca"
+    }
+}

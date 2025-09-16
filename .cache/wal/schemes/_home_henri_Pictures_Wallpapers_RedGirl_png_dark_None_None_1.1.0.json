@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/henri/Pictures/Wallpapers/RedGirl.png",
+    "alpha": "100",
+    "special": {
+        "background": "#080808",
+        "foreground": "#e9dfdf",
+        "cursor": "#e9dfdf"
+    },
+    "colors": {
+        "color0": "#080808",
+        "color1": "#FB0203",
+        "color2": "#E81A1F",
+        "color3": "#A36069",
+        "color4": "#F55D61",
+        "color5": "#BC7A81",
+        "color6": "#C69E9E",
+        "color7": "#e9dfdf",
+        "color8": "#a39c9c",
+        "color9": "#FB0203",
+        "color10": "#E81A1F",
+        "color11": "#A36069",
+        "color12": "#F55D61",
+        "color13": "#BC7A81",
+        "color14": "#C69E9E",
+        "color15": "#e9dfdf"
+    }
+}

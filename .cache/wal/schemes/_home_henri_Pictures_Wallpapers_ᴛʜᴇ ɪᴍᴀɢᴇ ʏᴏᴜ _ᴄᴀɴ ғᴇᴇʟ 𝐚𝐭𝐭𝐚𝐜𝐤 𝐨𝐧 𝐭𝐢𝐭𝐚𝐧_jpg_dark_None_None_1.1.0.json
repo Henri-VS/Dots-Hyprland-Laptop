@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/henri/Pictures/Wallpapers/\u1d1b\u029c\u1d07 \u026a\u1d0d\u1d00\u0262\u1d07 \u028f\u1d0f\u1d1c _\u1d04\u1d00\u0274 \u0493\u1d07\u1d07\u029f \ud835\udc1a\ud835\udc2d\ud835\udc2d\ud835\udc1a\ud835\udc1c\ud835\udc24 \ud835\udc28\ud835\udc27 \ud835\udc2d\ud835\udc22\ud835\udc2d\ud835\udc1a\ud835\udc27.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#03100F",
+        "foreground": "#7ae4f5",
+        "cursor": "#7ae4f5"
+    },
+    "colors": {
+        "color0": "#03100F",
+        "color1": "#A8BD49",
+        "color2": "#063889",
+        "color3": "#06589B",
+        "color4": "#0172DD",
+        "color5": "#03A1F7",
+        "color6": "#3AC1C3",
+        "color7": "#7ae4f5",
+        "color8": "#559fab",
+        "color9": "#A8BD49",
+        "color10": "#063889",
+        "color11": "#06589B",
+        "color12": "#0172DD",
+        "color13": "#03A1F7",
+        "color14": "#3AC1C3",
+        "color15": "#7ae4f5"
+    }
+}

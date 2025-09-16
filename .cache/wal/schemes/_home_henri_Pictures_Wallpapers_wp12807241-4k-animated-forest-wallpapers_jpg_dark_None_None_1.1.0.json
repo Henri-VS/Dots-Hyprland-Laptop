@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/henri/Pictures/Wallpapers/wp12807241-4k-animated-forest-wallpapers.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#07141B",
+        "foreground": "#a8c9da",
+        "cursor": "#a8c9da"
+    },
+    "colors": {
+        "color0": "#07141B",
+        "color1": "#4E5F6E",
+        "color2": "#B78B51",
+        "color3": "#34638D",
+        "color4": "#3463B5",
+        "color5": "#4F7193",
+        "color6": "#658FA6",
+        "color7": "#a8c9da",
+        "color8": "#758c98",
+        "color9": "#4E5F6E",
+        "color10": "#B78B51",
+        "color11": "#34638D",
+        "color12": "#3463B5",
+        "color13": "#4F7193",
+        "color14": "#658FA6",
+        "color15": "#a8c9da"
+    }
+}

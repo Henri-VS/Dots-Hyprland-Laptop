@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/henri/Pictures/Wallpapers/BlackWhiteCodeGeass.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#010101",
+        "foreground": "#f4f4f4",
+        "cursor": "#f4f4f4"
+    },
+    "colors": {
+        "color0": "#010101",
+        "color1": "#8F8F8F",
+        "color2": "#A69BA2",
+        "color3": "#B0B0B0",
+        "color4": "#D0D0D0",
+        "color5": "#E2DBDF",
+        "color6": "#F1F1F1",
+        "color7": "#f4f4f4",
+        "color8": "#aaaaaa",
+        "color9": "#8F8F8F",
+        "color10": "#A69BA2",
+        "color11": "#B0B0B0",
+        "color12": "#D0D0D0",
+        "color13": "#E2DBDF",
+        "color14": "#F1F1F1",
+        "color15": "#f4f4f4"
+    }
+}

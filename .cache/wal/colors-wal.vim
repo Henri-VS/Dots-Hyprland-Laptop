@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/henri/Pictures/Wallpapers/VinlandSagaWater.png"
+let background = "#0E1218"
+let foreground = "#94c5d5"
+let cursor     = "#94c5d5"
+
+" Colors
+let color0  = "#0E1218"
+let color1  = "#2A505C"
+let color2  = "#124A70"
+let color3  = "#585A5C"
+let color4  = "#955137"
+let color5  = "#1C6896"
+let color6  = "#517789"
+let color7  = "#94c5d5"
+let color8  = "#678995"
+let color9  = "#2A505C"
+let color10 = "#124A70"
+let color11 = "#585A5C"
+let color12 = "#955137"
+let color13 = "#1C6896"
+let color14 = "#517789"
+let color15 = "#94c5d5"

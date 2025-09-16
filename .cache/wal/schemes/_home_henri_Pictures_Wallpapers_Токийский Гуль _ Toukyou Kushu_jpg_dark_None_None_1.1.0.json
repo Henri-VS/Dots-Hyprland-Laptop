@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/henri/Pictures/Wallpapers/\u0422\u043e\u043a\u0438\u0439\u0441\u043a\u0438\u0439 \u0413\u0443\u043b\u044c _ Toukyou Kushu.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#000000",
+        "foreground": "#d398a5",
+        "cursor": "#d398a5"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#8F0713",
+        "color2": "#AE0716",
+        "color3": "#A01A2D",
+        "color4": "#D80820",
+        "color5": "#CF122E",
+        "color6": "#D72B4D",
+        "color7": "#d398a5",
+        "color8": "#936a73",
+        "color9": "#8F0713",
+        "color10": "#AE0716",
+        "color11": "#A01A2D",
+        "color12": "#D80820",
+        "color13": "#CF122E",
+        "color14": "#D72B4D",
+        "color15": "#d398a5"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/henri/Pictures/Wallpapers/BlackCloverRed.png",
+    "alpha": "100",
+    "special": {
+        "background": "#000000",
+        "foreground": "#ebe0e0",
+        "cursor": "#ebe0e0"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#E7100D",
+        "color2": "#BC4B4D",
+        "color3": "#C96063",
+        "color4": "#CF7D81",
+        "color5": "#D9A0A2",
+        "color6": "#E2BFC0",
+        "color7": "#ebe0e0",
+        "color8": "#a49c9c",
+        "color9": "#E7100D",
+        "color10": "#BC4B4D",
+        "color11": "#C96063",
+        "color12": "#CF7D81",
+        "color13": "#D9A0A2",
+        "color14": "#E2BFC0",
+        "color15": "#ebe0e0"
+    }
+}

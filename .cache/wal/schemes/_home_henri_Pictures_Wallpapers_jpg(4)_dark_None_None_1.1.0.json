@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/henri/Pictures/Wallpapers/jpg(4)",
+    "alpha": "100",
+    "special": {
+        "background": "#010101",
+        "foreground": "#dddddd",
+        "cursor": "#dddddd"
+    },
+    "colors": {
+        "color0": "#010101",
+        "color1": "#605F61",
+        "color2": "#6E6E6E",
+        "color3": "#807E7F",
+        "color4": "#7E7E80",
+        "color5": "#929292",
+        "color6": "#A9A9A9",
+        "color7": "#dddddd",
+        "color8": "#9a9a9a",
+        "color9": "#605F61",
+        "color10": "#6E6E6E",
+        "color11": "#807E7F",
+        "color12": "#7E7E80",
+        "color13": "#929292",
+        "color14": "#A9A9A9",
+        "color15": "#dddddd"
+    }
+}

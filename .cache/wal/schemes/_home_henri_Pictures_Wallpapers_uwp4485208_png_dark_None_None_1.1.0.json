@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/henri/Pictures/Wallpapers/uwp4485208.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0C0C11",
+        "foreground": "#e3d4d7",
+        "cursor": "#e3d4d7"
+    },
+    "colors": {
+        "color0": "#0C0C11",
+        "color1": "#388EBD",
+        "color2": "#6A88B1",
+        "color3": "#A298AD",
+        "color4": "#AD9AAC",
+        "color5": "#C19EA7",
+        "color6": "#CBAEB9",
+        "color7": "#e3d4d7",
+        "color8": "#9e9496",
+        "color9": "#388EBD",
+        "color10": "#6A88B1",
+        "color11": "#A298AD",
+        "color12": "#AD9AAC",
+        "color13": "#C19EA7",
+        "color14": "#CBAEB9",
+        "color15": "#e3d4d7"
+    }
+}

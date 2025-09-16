@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/henri/Pictures/Wallpapers/Japanese House.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#051732",
+        "foreground": "#eac3bf",
+        "cursor": "#eac3bf"
+    },
+    "colors": {
+        "color0": "#051732",
+        "color1": "#577690",
+        "color2": "#3B869B",
+        "color3": "#4F91A5",
+        "color4": "#618EA1",
+        "color5": "#9F929E",
+        "color6": "#E98680",
+        "color7": "#eac3bf",
+        "color8": "#a38885",
+        "color9": "#577690",
+        "color10": "#3B869B",
+        "color11": "#4F91A5",
+        "color12": "#618EA1",
+        "color13": "#9F929E",
+        "color14": "#E98680",
+        "color15": "#eac3bf"
+    }
+}

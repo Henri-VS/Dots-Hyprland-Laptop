@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/henri/Pictures/Wallpapers/Tryfog.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#040104",
+        "foreground": "#deaeea",
+        "cursor": "#deaeea"
+    },
+    "colors": {
+        "color0": "#040104",
+        "color1": "#A8386D",
+        "color2": "#6F3693",
+        "color3": "#7844A0",
+        "color4": "#B94C9E",
+        "color5": "#9852AA",
+        "color6": "#B260D6",
+        "color7": "#deaeea",
+        "color8": "#9b79a3",
+        "color9": "#A8386D",
+        "color10": "#6F3693",
+        "color11": "#7844A0",
+        "color12": "#B94C9E",
+        "color13": "#9852AA",
+        "color14": "#B260D6",
+        "color15": "#deaeea"
+    }
+}

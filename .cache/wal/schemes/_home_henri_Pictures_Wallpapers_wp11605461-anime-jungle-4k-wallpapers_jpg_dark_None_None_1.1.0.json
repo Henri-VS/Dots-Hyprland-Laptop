@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/henri/Pictures/Wallpapers/wp11605461-anime-jungle-4k-wallpapers.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0A1D20",
+        "foreground": "#afc7ba",
+        "cursor": "#afc7ba"
+    },
+    "colors": {
+        "color0": "#0A1D20",
+        "color1": "#526E59",
+        "color2": "#6D737B",
+        "color3": "#298C5F",
+        "color4": "#609568",
+        "color5": "#69AA62",
+        "color6": "#8AA473",
+        "color7": "#afc7ba",
+        "color8": "#7a8b82",
+        "color9": "#526E59",
+        "color10": "#6D737B",
+        "color11": "#298C5F",
+        "color12": "#609568",
+        "color13": "#69AA62",
+        "color14": "#8AA473",
+        "color15": "#afc7ba"
+    }
+}

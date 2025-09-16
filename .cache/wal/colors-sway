@@ -1,0 +1,21 @@
+set $wallpaper /home/henri/Pictures/Wallpapers/VinlandSagaWater.png
+
+set $background #0E1218
+set $foreground #94c5d5
+
+set $color0 #0E1218
+set $color1 #2A505C
+set $color2 #124A70
+set $color3 #585A5C
+set $color4 #955137
+set $color5 #1C6896
+set $color6 #517789
+set $color7 #94c5d5
+set $color8 #678995
+set $color9 #2A505C
+set $color10 #124A70
+set $color11 #585A5C
+set $color12 #955137
+set $color13 #1C6896
+set $color14 #517789
+set $color15 #94c5d5

@@ -1,0 +1,117 @@
+configuration {
+    scroll-method: 1;
+    scrollbar: true;
+    show-icons: true;
+    display-run: "Run ";
+    display-drun: "Open ";
+    drun-display-format: "{icon} {name}";
+    modi: "run,drun";
+
+    dpi: 96;    /* matches your monitor */
+}
+
+@import "/home/henri/.cache/wal/colors-rofi-dark.rasi"
+
+#window {
+    background-color: @background;
+    border:           0;
+    border-radius:    6;
+    border-color:     @border-color;
+    padding:          15px;
+    width:            600px;
+}
+
+#listview {
+    lines:        6;
+    fixed-height: 0;
+    border:       0px;
+    spacing:      2px;
+    padding:      2px 0px 0px;
+    scrollbar:    true;
+}
+
+#element {
+    border:        0;
+    border-radius: 8px;
+    padding:       3px;
+}
+
+#element.normal.normal {
+    background-color: @normal-background;
+    text-color:       @normal-foreground;
+}
+#element.normal.urgent {
+    background-color: @urgent-background;
+    text-color:       @urgent-foreground;
+}
+#element.normal.active {
+    background-color: @active-background;
+    text-color:       @active-foreground;
+}
+
+#element.selected.normal {
+    background-color: @selected-normal-background;
+    text-color:       @selected-normal-foreground;
+}
+#element.selected.urgent {
+    background-color: @selected-urgent-background;
+    text-color:       @selected-urgent-foreground;
+}
+#element.selected.active {
+    background-color: @selected-active-background;
+    text-color:       @selected-active-foreground;
+}
+
+#element.alternate.normal {
+    background-color: @alternate-normal-background;
+    text-color:       @alternate-normal-foreground;
+}
+#element.alternate.urgent {
+    background-color: @alternate-urgent-background;
+    text-color:       @alternate-urgent-foreground;
+}
+#element.alternate.active {
+    background-color: @alternate-active-background;
+    text-color:       @alternate-active-foreground;
+}
+
+element-text, element-icon {
+    size:             45px;   /* icon size */
+    background-color: inherit;
+    text-color:       inherit;
+}
+
+#scrollbar {
+    width:        4px;
+    border:       0;
+    handle-width: 8px;
+    padding:      0;
+    handle-color: @selected-normal-background;
+}
+
+#inputbar {
+    children:   [ prompt, textbox-prompt-colon, entry ];
+    spacing:       0;
+    padding:       15px;
+    border:        3px;
+    border-radius: 6px;
+    border-color:  @border-color;
+    text-color:    @normal-foreground;
+}
+
+#prompt {
+    spacing:    0;
+    text-color: @normal-foreground;
+}
+
+#textbox-prompt-colon {
+    expand:     false;
+    str:        ">";
+    margin:     0px 0.3em 0em 0em;
+    text-color: @normal-foreground;
+}
+
+#entry {
+    spacing:    0;
+    text-color: @normal-foreground;
+}

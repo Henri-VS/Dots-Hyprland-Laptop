@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/henri/Pictures/Wallpapers/PurpleGirl.png",
+    "alpha": "100",
+    "special": {
+        "background": "#020204",
+        "foreground": "#d5a9e2",
+        "cursor": "#d5a9e2"
+    },
+    "colors": {
+        "color0": "#020204",
+        "color1": "#3F2A80",
+        "color2": "#4C3591",
+        "color3": "#5C3DA1",
+        "color4": "#5F49A5",
+        "color5": "#7850C7",
+        "color6": "#955ADD",
+        "color7": "#d5a9e2",
+        "color8": "#95769e",
+        "color9": "#3F2A80",
+        "color10": "#4C3591",
+        "color11": "#5C3DA1",
+        "color12": "#5F49A5",
+        "color13": "#7850C7",
+        "color14": "#955ADD",
+        "color15": "#d5a9e2"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/henri/Pictures/Wallpapers/AOTFire.webp",
+    "alpha": "100",
+    "special": {
+        "background": "#0A0202",
+        "foreground": "#f4eede",
+        "cursor": "#f4eede"
+    },
+    "colors": {
+        "color0": "#0A0202",
+        "color1": "#D3714A",
+        "color2": "#7F8079",
+        "color3": "#EC9B61",
+        "color4": "#EBBB60",
+        "color5": "#E7B38E",
+        "color6": "#F9DAA5",
+        "color7": "#f4eede",
+        "color8": "#aaa69b",
+        "color9": "#D3714A",
+        "color10": "#7F8079",
+        "color11": "#EC9B61",
+        "color12": "#EBBB60",
+        "color13": "#E7B38E",
+        "color14": "#F9DAA5",
+        "color15": "#f4eede"
+    }
+}

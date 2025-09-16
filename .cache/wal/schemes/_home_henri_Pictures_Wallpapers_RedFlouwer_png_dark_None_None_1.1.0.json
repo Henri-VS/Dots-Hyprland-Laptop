@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/henri/Pictures/Wallpapers/RedFlouwer.png",
+    "alpha": "100",
+    "special": {
+        "background": "#000000",
+        "foreground": "#e99ea7",
+        "cursor": "#e99ea7"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#A62126",
+        "color2": "#CF1B1B",
+        "color3": "#D1282E",
+        "color4": "#E1292D",
+        "color5": "#DC3A47",
+        "color6": "#A7434F",
+        "color7": "#e99ea7",
+        "color8": "#a36e74",
+        "color9": "#A62126",
+        "color10": "#CF1B1B",
+        "color11": "#D1282E",
+        "color12": "#E1292D",
+        "color13": "#DC3A47",
+        "color14": "#A7434F",
+        "color15": "#e99ea7"
+    }
+}
