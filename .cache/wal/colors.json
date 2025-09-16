@@ -1,28 +1,28 @@
 {
-    "wallpaper": "/home/henri/Pictures/Wallpapers/VinlandSagaWater.png",
+    "wallpaper": "/home/henri/Pictures/Wallpapers/BlueClouds2.jpg",
     "alpha": "100",
 
     "special": {
-        "background": "#0E1218",
-        "foreground": "#94c5d5",
-        "cursor": "#94c5d5"
+        "background": "#13214a",
+        "foreground": "#e0edf2",
+        "cursor": "#e0edf2"
     },
     "colors": {
-        "color0": "#0E1218",
-        "color1": "#2A505C",
-        "color2": "#124A70",
-        "color3": "#585A5C",
-        "color4": "#955137",
-        "color5": "#1C6896",
-        "color6": "#517789",
-        "color7": "#94c5d5",
-        "color8": "#678995",
-        "color9": "#2A505C",
-        "color10": "#124A70",
-        "color11": "#585A5C",
-        "color12": "#955137",
-        "color13": "#1C6896",
-        "color14": "#517789",
-        "color15": "#94c5d5"
+        "color0": "#13214a",
+        "color1": "#2B72CC",
+        "color2": "#4298D9",
+        "color3": "#609ED9",
+        "color4": "#94ADD0",
+        "color5": "#A9D9F0",
+        "color6": "#C7DAEB",
+        "color7": "#e0edf2",
+        "color8": "#9ca5a9",
+        "color9": "#2B72CC",
+        "color10": "#4298D9",
+        "color11": "#609ED9",
+        "color12": "#94ADD0",
+        "color13": "#A9D9F0",
+        "color14": "#C7DAEB",
+        "color15": "#e0edf2"
     }
 }
