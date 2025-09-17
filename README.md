@@ -7,56 +7,31 @@ This repository contains my personal dotfiles for a **Fedora Linux** system runn
 
 ---
 
-## 📦 Included Configurations
+## Included Configs
 
-* **Hyprland:** Wayland compositor handling tiling window management and more.
-* **Waybar:** A customizable Wayland bar for system information and controls.
+* **Hyprland:** Tiling window management.
+* **Waybar:** A customizable task bar.
 * **Rofi:** Application launcher.
 * **Kitty:** Terminal emulator.
 
 ---
 
-## ⚙️ Dependencies
+## Dependencies
 
 Make sure you have these installed:
 
-```bash
-sudo dnf install hyprland waybar rofi kitty swww wl-clipboard nemo dunst brightnessctl playerctl
-```
 
-> Some features also require `wpctl` (PipeWire tools).
 
 ---
 
-## 🚀 Installation
+## Wallpaper Management
 
-Clone the repo into your home directory and symlink with **GNU Stow**:
-
-```bash
-git clone https://github.com/henri/Dots-Hyprland-Laptop.git ~/dotfiles
-cd ~/dotfiles
-stow .
-```
-
-Or manually copy configs into `~/.config/`.
+Using hyprpaper
+Change wallpaper via **SUPER + W** (`~/.config/rofi/script.sh`).
 
 ---
 
-## 🖼️ Wallpaper Management
-
-Wallpapers are handled using **swww** and a custom **Rofi script**.
-
-```bash
-# Initialize and set wallpaper
-swww init
-swww img ~/Pictures/Wallpapers/default.jpg
-```
-
-Change wallpaper via **SUPER + W** (calls `~/.config/rofi/script.sh`).
-
----
-
-## ⌨️ Keybindings
+## Keybindings
 
 | Keybind                          | Action                                    |
 | -------------------------------- | ----------------------------------------- |
@@ -77,21 +52,10 @@ Change wallpaper via **SUPER + W** (calls `~/.config/rofi/script.sh`).
 | **SUPER + Scroll Up/Down**       | Cycle through workspaces                  |
 | **SUPER + Left Mouse (drag)**    | Move window                               |
 | **SUPER + Right Mouse (drag)**   | Resize window                             |
-| **Volume Up/Down (Fn keys)**     | Adjust audio volume                       |
-| **Mute (Fn key)**                | Toggle audio mute                         |
-| **Mic Mute (Fn key)**            | Toggle microphone mute                    |
-| **Brightness Up/Down (Fn keys)** | Adjust screen brightness                  |
-| **Media Next/Prev/Play/Pause**   | Control media with playerctl              |
 
 ---
 
-## 📷 Screenshots
-
-*(Add screenshots of your setup here to showcase Hyprland + Waybar + Rofi)*
-
----
-
-## 📝 Notes
+## Note
 
 * **Tailored to my needs:** These configs reflect my preferences, you may need to adjust paths and keybindings.
 * **Basic setup:** Provides a minimal but functional Hyprland environment.
@@ -100,9 +64,8 @@ Change wallpaper via **SUPER + W** (calls `~/.config/rofi/script.sh`).
 
 ---
 
-## ✅ TODO / Future Improvements
+## TODO / Future Improvements
 
-* Add more workspace keybinds
-* Improve Rofi menus (power menu, screenshots, etc.)
-* Waybar modules for battery, media, and brightness
-* Auto theme generation with Pywal
+* Improve general config readability 
+* Add Notifications
+* Waybar module for notifications
