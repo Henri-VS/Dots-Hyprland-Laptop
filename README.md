@@ -3,7 +3,7 @@
 ---
 
 Hi
-This repository contains my personal dotfiles for a **Fedora Linux** system running **Hyprland**. These configurations are tailored to my workflow and preferences, offering a basic yet functional setup.
+This repository contains my personal dotfiles for a **Fedora Linux laptop** running **Hyprland**. These configurations are tailored to my workflow and preferences.
 
 ---
 
@@ -26,7 +26,7 @@ Make sure you have these installed:
 
 ## Wallpaper Management
 
-Using hyprpaper
+Using hyprpaper to manage wallpapers.
 Change wallpaper via **SUPER + W** (`~/.config/rofi/script.sh`).
 
 ---
@@ -57,10 +57,10 @@ Change wallpaper via **SUPER + W** (`~/.config/rofi/script.sh`).
 
 ## Note
 
-* **Tailored to my needs:** These configs reflect my preferences, you may need to adjust paths and keybindings.
+* **Tailored to my needs:** These configs are my preferences, you may need to adjust paths and keybindings.
 * **Basic setup:** Provides a minimal but functional Hyprland environment.
 * **Fedora specific:** Configs assume Fedora package management.
-* **Feel free to fork:** Adapt it to your own workflow!
+* **Feel free to clone:** Adapt it to your own workflow.
 
 ---
 
