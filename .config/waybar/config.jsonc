@@ -6,9 +6,9 @@
   "margin-right": 6,
   "height": 40,
 
-  "modules-left": ["clock","custom/media","memory","cpu"],
+  "modules-left": ["clock","memory","cpu"],
   "modules-center": ["hyprland/workspaces"],
-  "modules-right": ["pulseaudio","backlight","network","battery"],
+  "modules-right": ["custom/media","pulseaudio","backlight","network","battery"],
 
   "custom/notification": {
     "tooltip": false,
@@ -53,8 +53,8 @@
     "tooltip-format": "{}",
     "interval": 5,
     "on-click": "playerctl play-pause --player=spotify",
-    "on-scroll-up": "playerctl next",
-    "on-scroll-down": "playerctl previous",
+    "on-scroll-up": "playerctl next --player=spotify",
+    "on-scroll-down": "playerctl previous --player=spotify",
     "return-type": "string"
   },
 
