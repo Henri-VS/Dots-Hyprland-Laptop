@@ -24,7 +24,7 @@ wal -i "$WALLPAPER"
 # Update Firefox with Pywalfox
 pywalfox update
 
-# Restart Waybar BEFORE wallpaper change
+# Restart Waybar before wallpaper change
 pkill waybar
 waybar &
 
