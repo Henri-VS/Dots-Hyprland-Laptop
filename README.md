@@ -3,25 +3,69 @@
 ---
 
 Hi
-This repository is my personal dotfiles for an **Fedora Linux** system running the **Hyprland**. These configurations are made to my specific workflow and preferences, offering a basic yet functional setup.
+This repository contains my personal dotfiles for a **Fedora Linux laptop** running **Hyprland**. These configurations are tailored to my workflow and preferences.
 
 ---
 
+## Included Configs
 
-This repository contains the following configurations:
+* **Hyprland:** Tiling window management.
+* **Waybar:** A customizable task bar.
+* **Rofi:** Application launcher.
+* **Kitty:** Terminal emulator.
 
-* **Hyprland:** The Wayland compositor itself, handling window management and more.
-* **Waybar:** A customizable Wayland bar for displaying system information.
-* **Rofi:** A application launcher.
-* **Kitty:** The best terminal.
+---
+
+## Dependencies
+
+Make sure you have these installed:
+
+
 
 ---
 
-### Important Notes
+## Wallpaper Management
 
-* **Tailored to my needs:** These dotfiles reflect my personal preferences and may not be suitable for everyone out of the box. You will likely need to adjust paths, keybindings, and other settings to match your system and preferences.
-* **Basic setup:** This configuration provides a foundational Hyprland environment.
-* **Fedora Linux specific:** These dotfiles are primarily designed for Fedora Linux and its package management.
-* **Feel free to fork**
+Using hyprpaper to manage wallpapers.
+Change wallpaper via **SUPER + W** (`~/.config/rofi/script.sh`).
 
 ---
+
+## Keybindings
+
+| Keybind                          | Action                                    |
+| -------------------------------- | ----------------------------------------- |
+| **SUPER + Return**               | Launch Kitty terminal                     |
+| **SUPER + B**                    | Launch Firefox                            |
+| **SUPER + E**                    | Open Nemo file manager                    |
+| **SUPER + Space**                | Launch Rofi (app launcher)                |
+| **SUPER + Q**                    | Close active window                       |
+| **SUPER + T**                    | Toggle floating window                    |
+| **SUPER + F**                    | Toggle fullscreen                         |
+| **SUPER + W**                    | Change wallpaper (rofi script)            |
+| **SUPER + L**                    | Lock screen (Hyprlock)                    |
+| **SUPER + Left/Right**           | Switch to previous/next workspace         |
+| **SUPER + \[1–5]**               | Switch to workspace 1–5                   |
+| **SUPER + ALT + \[1–5]**         | Move active window to workspace 1–5       |
+| **SUPER + ALT + Left/Right**     | Move active window to prev/next workspace |
+| **SUPER + SHIFT + Arrows**       | Move focus (left/right/up/down)           |
+| **SUPER + Scroll Up/Down**       | Cycle through workspaces                  |
+| **SUPER + Left Mouse (drag)**    | Move window                               |
+| **SUPER + Right Mouse (drag)**   | Resize window                             |
+
+---
+
+## Note
+
+* **Tailored to my needs:** These configs are my preferences, you may need to adjust paths and keybindings.
+* **Basic setup:** Provides a minimal but functional Hyprland environment.
+* **Fedora specific:** Configs assume Fedora package management.
+* **Feel free to clone:** Adapt it to your own workflow.
+
+---
+
+## TODO / Future Improvements
+
+* Improve general config readability 
+* Add Notifications
+* Waybar module for notifications
